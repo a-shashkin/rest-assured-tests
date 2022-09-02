@@ -1,1 +1,1 @@
-# rest-assured-tests
+Repository contains API autotests for reqres.in.
